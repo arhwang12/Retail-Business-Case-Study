@@ -19,6 +19,3 @@ The goal of this case study is for us to understand better how you think, analyz
 ●	Predictive model
 ●	Clustering
 However, to stress this again, it is up to your imagination, and you should feel free to be creative or come up with other approaches.
-
-Rules:
-Please provide us with all your output materials (code, scripts, text, Jupyter notebook, mark-down documents), even if it is not finished. Please comment your code extensively. Understanding how and why you did something is more important for us than the result of your analysis. Please submit your work under ‘Submit results here’ folder.
